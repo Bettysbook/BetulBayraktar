@@ -1,6 +1,6 @@
 # Hi! I am Betul 👋 👩🏾‍💻
 
-![Me](C:\Users\Lenovo\Downloads\image.png)
+![Me!](C:\Users\Lenovo\Downloads\image.png)
 
 
 
