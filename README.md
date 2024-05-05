@@ -1,9 +1,6 @@
 # Hi! I am Betul 👋 👩🏾‍💻
 
 
-<<<<<<< HEAD
-![Me!!](https://github.com/Bettysbook/BetulBayraktar/assets/109543973/a260d3db-6912-43c4-bd1c-288b4de482ad)
-=======
 ![Me!!](https://github.com/Bettysbook/BetulBayraktar/assets/109543973/4bba618a-7882-4e60-970a-619806cd2abe)
 
 
@@ -18,4 +15,4 @@ Find me around the web 🌎:
 [TechStories](https://bettystechstories.medium.com/)
 [CultureBloginSubstack](https://bettyswaysofseeing.substack.com/publish/posts)
 
->>>>>>> 01c48f36dea91fc157afaf764ab75539893576e8
+
