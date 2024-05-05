@@ -13,4 +13,5 @@ Now, I am leveraging my experience to transition into the field of IT, where I e
 Find me around the web 🌎:
 [LinkedIn](https://www.linkedin.com/in/betul-bayraktar/)
 [TechStories](https://bettystechstories.medium.com/)
+[CultureBloginSubstack](https://bettyswaysofseeing.substack.com/publish/posts)
 
