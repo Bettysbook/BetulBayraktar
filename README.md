@@ -5,7 +5,7 @@
 
 
 I am driven by a passion for continual learning and enjoy sharing my knowledge with others. 
-This drive led me to spend ten years as a research assistant in Turkish Language and Literature. 
+This led me to spend ten years as a research assistant in Turkish Language and Literature. 
 Now, I am leveraging my experience to transition into the field of IT, where I engage in various projects, either independently or collaboratively with my team.
 
 
